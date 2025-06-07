@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LAYERS(A REALTIME SENTIMENTAL RADAR))**
 
-- 🌱 I’m currently learning **REACT NATIVE , KAFKA APACHE,SQL**
+- 🌱 I’m currently learning **REACT NATIVE , KAFKA APACHE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MNNITAK](https://github.com/MNNITAK)
 

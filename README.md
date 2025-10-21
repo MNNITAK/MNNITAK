@@ -28,7 +28,7 @@ const akshay = {
 };
 ```
 
-Driven by innovation and collaboration, I'm a passionate Full Stack Developer exploring the intersections of **AI**, **Web**, **Mobile**, and **Blockchain** technologies. I love transforming complex ideas into intuitive solutions — from AI-integrated academic tools like **Synapto** to AR-enabled apps like **Campus Marg**.
+Driven by innovation and collaboration, I'm a passionate Full Stack Developer exploring the intersections of **AI**, **Web**, **Mobile**  technologies. I love transforming complex ideas into intuitive solutions — from AI-integrated academic tools like **Synapto** to AR-enabled apps like **Campus Marg**.
 
 I thrive on team-driven problem-solving, continuous learning, and building impactful tech that makes life easier. Let's build the future together! 🚀
 

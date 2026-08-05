@@ -1,324 +1,222 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Akshay+Yadav+%F0%9F%91%8B;Full-Stack+%7C+App+%7C+Web+Developer;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXF6cWt5ZGpia2pyNzF5N2R2Y3ZvdmRpaGh1bHd6ZDNxaGEzMnFxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/akshay-b94729343/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:ay9120991471@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.npmjs.com/package/vuln-scanner"><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-```javascript
-const akshay = {
-    location: "MNNIT Allahabad",
-    education: "ECE Undergrad",
-    role: "Full-Stack Developer",
-    passions: ["Gen-AI", "Web", "Mobile Dev", "Innovation"],
-    motto: "Transform complex ideas into intuitive solutions",
-    currentlyVibing: "Building the next big thing 🚀"
-};
-```
-
-Driven by innovation and collaboration, I'm a passionate Full Stack Developer exploring the intersections of **AI**, **Web**, **Mobile**  technologies. I love transforming complex ideas into intuitive solutions — from AI-integrated academic tools like **Synapto** to AR-enabled apps like **Campus Marg**.
-
-I thrive on team-driven problem-solving, continuous learning, and building impactful tech that makes life easier. Let's build the future together! 🚀
-
----
-
-## 🎯 Current Focus & Goals
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔭 Now Building
-- 🚀 **Real-world MERN Stack Projects**
-- 📱 **Cross-platform Mobile Apps**
-- ⛓️ **Multi Agent System's**
-- 🤖 **AI-powered Applications**
-- 🎨 **UI-heavy Frontends using AI Tools**
-
-</td>
-<td width="50%">
-
-### 🌱 Currently Learning
-- 🔥 **MCP, Multi Agent Orchestration**
-- 🤖 **Advanced AI Integration (LangChain)**
-- 📱 **Advanced React Native & Expo**
-- 🐳 **Microservices + DevOps (Docker, K8s)**
-- ☁️ **Cloud Architecture**
-
-</td>
-</tr>
-</table>
-
-### 🏆 2025 Goals
-```diff
-+ 📱 Launch 5+ mobile applications
-+ 💼 Land freelance gigs / internships
-+ 🏆 Improve CP + open-source contributions
-+ 📚 Master AI Agents Work-flow
-```
-
----
-
-## 🛠️ Tech Arsenal
-
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
-<br>
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>📱 Mobile Development</b></summary>
-<br>
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Database & Cloud</b></summary>
-<br>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🤖 AI/ML & Automation</b></summary>
-<br>
-
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🛠️ Tools & DevOps</b></summary>
-<br>
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
 <div align="center">
 
-### 🧠 **Synapto**
-[![MERN](https://img.shields.io/badge/Stack-MERN-green?style=for-the-badge)](https://github.com/MNNITAK/Synapto)
-[![AI](https://img.shields.io/badge/AI-Summarizer-blue?style=for-the-badge)](https://synapto.link)
-[![WhatsApp](https://img.shields.io/badge/API-Twilio_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://synapto.link)
+# Akshay Yadav
 
-An **AI-powered academic management platform** designed to enhance learning through **smart summaries**, **dynamic quiz generation**, and **real-time collaboration**. Includes a **gamified mass-bunk system** with polls, imposter detection, and streak-based leaderboards — all built using **React Context API** for live updates.
+### Backend Engineer · Distributed Systems · AI Infrastructure · System Design
 
-🔗 [View Project](https://github.com/MNNITAK/Synapto) | 🌐 [Live Demo](https://synapto.link)
+**Building production-grade backend systems, AI-native platforms and cloud infrastructure.**
 
----
+[Portfolio](https://your-portfolio.com) · [Resume](https://drive.google.com/file/d/1rmpDxKyFksO3ZitiYAKmwxOzVAurQMBe/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/akshay-b94729343/)  · [Email](mailto:ay9120991471@gmail.com)
 
-### 💊 **Insight-X**
-[![LangChain](https://img.shields.io/badge/Framework-LangChain-blueviolet?style=for-the-badge)](https://github.com/MNNITAK/Insight-X)
-[![MERN](https://img.shields.io/badge/Stack-MERN-green?style=for-the-badge)](https://github.com/MNNITAK/Insight-X)
-[![AI Agents](https://img.shields.io/badge/AI-MultiAgentSystem-orange?style=for-the-badge)](https://github.com/MNNITAK/Insight-X)
+<br/>
 
-An intelligent **Medication Management Platform** featuring **four specialized AI agents** — for medical insights, personal health, medication safety, and emergency triage. Offers **context-aware reminders**, **Google Calendar integration**, **analytics dashboards**, and **exportable PDF reports** — redefining digital healthcare.
-
-🔗 [View Project](https://github.com/MNNITAK/Insight-X)
-
----
-
-### 🧭 **Campus Marg**
-[![React Native](https://img.shields.io/badge/Mobile-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/MNNITAK/CampusMarg)
-[![Node.js](https://img.shields.io/badge/Backend-Node.js-brightgreen?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/MNNITAK/CampusMarg)
-[![AR](https://img.shields.io/badge/Feature-AR_Navigation-orange?style=for-the-badge)](https://github.com/MNNITAK/CampusMarg)
-
-An **AR-enabled navigation app** for **MNNIT Allahabad**, providing live camera guidance inside academic buildings. Implements **Dijkstra's algorithm** for optimized route planning across multiple floors, featuring **wheelchair-accessible** paths and **real-time AR overlays**.
-
-🔗 [View Project](https://github.com/MNNITAK/CampusMarg)
+![Profile Views](https://komarev.com/ghpvc/?username=MNNITAK&style=flat-square&color=0e75b6)
+![Followers](https://img.shields.io/github/followers/MNNITAK?style=flat-square&color=0e75b6)
+![Stars](https://img.shields.io/github/stars/MNNITAK?style=flat-square&color=0e75b6)
 
 </div>
 
 ---
 
-## 📦 NPM Package
+## About
 
-<div align="center">
+I build systems that keep working when individual components fail.
 
-### 🔐 **vuln-scanner**
-[![NPM](https://img.shields.io/badge/NPM-Package-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/vuln-scanner)
-[![Node.js](https://img.shields.io/badge/Node.js-Security-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://www.npmjs.com/package/vuln-scanner)
-[![MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
+My work sits in **backend engineering, distributed systems, cloud infrastructure, AI systems and system design** — microservices, event-driven architectures, caching layers, distributed messaging and AI orchestration. I care more about how something behaves under scale, failure and change than about how many features it ships with.
 
-A **Node.js vulnerability scanner** to detect common security issues including missing headers, SSL/TLS config, SQL injection, XSS, path traversal, and information disclosure.
+Most of my recent work is production-grade rather than prototype-level: cloud-native microservice architectures, event buses, RAG pipelines and AI applications capable of autonomous decision-making.
 
-</div>
+Currently a third-year **Electronics & Communication Engineering** student at **MNNIT Allahabad**, and **Tech Facilitator (Executive)** at **Google Developer Groups, MNNIT Allahabad**.
 
-**Installation:**
-```bash
-npm install vuln-scanner
+---
+
+## Currently Building
+
+### [`Aether`](https://aether20.vercel.app/) — Distributed Geospatial Computing Platform
+
+[![Role](https://img.shields.io/badge/role-Co--Founder-0e75b6?style=flat-square)](#)
+[![Status](https://img.shields.io/badge/status-building-3FB950?style=flat-square)](#)
+[![Reveal](https://img.shields.io/badge/▶_Watch-Reveal-FF0000?style=flat-square)](#)
+
+Turning physical locations into intelligent, context-aware digital experiences — powered by agentic workflows, real-time orchestration and procedural content generation over a scalable backend.
+
+> *Making the physical world programmable.*
+
+<br/>
+
+### [`VoidCraft`](https://voidcraft.work) — AI & Software Agency
+
+[![Role](https://img.shields.io/badge/role-CTO-0e75b6?style=flat-square)](#)
+[![Site](https://img.shields.io/badge/voidcraft.work-live-3FB950?style=flat-square)](https://voidcraft.work)
+
+The AI and software agency behind intelligent businesses — the agents, automations and products that let ambitious companies operate beyond their headcount. I lead technical vision, architecture and engineering.
+
+---
+
+## SaaS Products
+
+### [`Voxa AI`](#) — Enterprise Voice AI Platform
+
+[![Status](https://img.shields.io/badge/status-launching_soon-FFB300?style=flat-square)](#)
+[![Pricing](https://img.shields.io/badge/from-%240.045%2Fmin-3FB950?style=flat-square)](#)
+[![Type](https://img.shields.io/badge/type-SaaS-0e75b6?style=flat-square)](#)
+
+A production-grade SaaS platform that lets businesses create, deploy and manage AI voice agents without writing code — visual agent builder, integrated CRM, multilingual support, live call monitoring, analytics and provider-agnostic AI infrastructure in a single dashboard. Teams launch AI receptionists, sales representatives, appointment schedulers and support agents in minutes, with low-latency conversations and calling from **$0.045 per minute**. Engineered for enterprise reliability with intelligent call orchestration, automatic provider failover and real-time monitoring.
+
+`Visual Agent Builder` `Call Orchestration` `Provider Failover` `Live Monitoring` `CRM Integration` `Multilingual` `Analytics`
+
+---
+
+## Engineering Focus
+
+I enjoy building systems where scalability, resilience and maintainability matter more than feature count.
+
+```text
+Production Microservices        API Gateways
+Event-Driven Systems            Distributed Messaging
+AI Infrastructure               RAG Pipelines
+Real-Time Systems               Cloud-Native Deployment
+Backend Architecture            Developer Tooling
 ```
 
-**Quick Usage:**
+---
+
+## Stack
+
+```text
+Languages     C++   Python   JavaScript   TypeScript
+
+Frontend      React.js   Next.js   React Native 
+              HTML   Tailwind CSS   Redux
+
+Backend       Node.js   Express.js   FastAPI
+              MongoDB   PostgreSQL   Redis
+
+AI / ML       LangChain   LangGraph
+              OpenCV   Pandas   NumPy
+
+DevOps        Docker   RabbitMQ   Nginx
+              Git   GitHub Actions   Postman
+
+Cloud         AWS   Oracle Cloud (OCI)
+              Cloudflare   Vercel
+```
+
+---
+
+## Featured Projects
+
+### [`InsightX`](#) — Zero-Infrastructure Cybersecurity Architecture Simulator
+
+[![Hack36](https://img.shields.io/badge/Hack36_9.0-2nd_Runner_Up-FFB300?style=flat-square)](#)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](#)
+
+Lets organizations design, validate and secure IT architectures through rule-based analysis and live attack simulation — removing weeks of configuration and costly cloud setups. A drag-and-drop architecture builder feeds a Rule-Based Security Engine mapped to **MITRE** and **OWASP**, backed by an **eBPF** process monitor for kernel-level network visibility and an integrated historical breach database. LangGraph agents handle AI-assisted architecture validation, and the whole simulation environment runs containerized with zero infrastructure to provision.
+
+`Next.js` `TypeScript` `FastAPI` `Python` `eBPF` `Docker` `LangGraph`
+
+---
+
+### [`Aether`](#) — Distributed Geospatial Computing Platform
+
+[![Status](https://img.shields.io/badge/status-in_development-3FB950?style=flat-square)](#)
+[![Domain](https://img.shields.io/badge/domain-Geospatial_·_Agentic_AI-0e75b6?style=flat-square)](#)
+
+Generates context-aware, interactive experiences over physical environments. Rather than shipping isolated experiences, the platform **dynamically composes** them at request time — a geospatial computing engine resolves location context, multi-agent orchestration drives adaptive user interactions, and procedural generation builds content on demand. Real-time synchronization keeps distributed clients consistent across a scalable, service-oriented backend.
+
+`Distributed Systems` `Agent Orchestration` `Procedural Generation` `Real-Time Sync` `Geospatial`
+
+---
+
+### [`Synapto V2`](#) — AI-Native Student Productivity Platform
+
+[![Architecture](https://img.shields.io/badge/architecture-microservices-0e75b6?style=flat-square)](#)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](#)
+
+Cloud-native platform built on a production-grade microservices architecture, combining AI-assisted learning, real-time collaboration and intelligent planning into a fault-tolerant distributed system. Services follow **API Gateway** and **Database-per-Service** patterns with independent scaling, communicate asynchronously over a **RabbitMQ** event bus, and back AI features with a **RAG** pipeline on **Qdrant** vector search. Real-time collaboration runs on WebSockets + Redis, background work is distributed through **BullMQ**, and the entire stack is Dockerized for cloud deployment.
+
+`Node.js` `RabbitMQ` `Redis` `Qdrant` `BullMQ` `MongoDB` `WebSockets` `JWT` `Docker`
+
+---
+
+### [`Eventsapt`](#) — Production-Scale Wedding Marketplace
+
+[![Services](https://img.shields.io/badge/services-13_%E2%80%94_11_shipped-0e75b6?style=flat-square)](#)
+[![Deployed](https://img.shields.io/badge/deployed-Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)](#)
+[![CI](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](#)
+
+End-to-end platform connecting couples with wedding vendors — discovery, proposal management, real-time communication and booking. The backend is a distributed system of **13 independently deployable Node.js microservices (11 fully implemented)** following Domain-Driven Design, each owning its own database and communicating over synchronous REST and asynchronous **RabbitMQ** events.
+
+**Engineering Highlights**
+
+- **API Gateway** (Express + NGINX) handling auth, routing, rate limiting and centralized request management
+- Event-driven communication across RFP, vendor, notification and chat services
+- Horizontally scalable real-time messaging with **Socket.IO + Redis Adapter** across multiple instances
+- AI-powered **RFP personalization engine** generating tailored vendor requests from event details
+- Scalable media pipeline — **Amazon S3**, pre-signed URLs, Multer, Sharp
+- Hardened auth — JWT, bcrypt, Helmet, Joi validation, CORS, transactional email workflows
+- **CI pipelines** with GitHub Actions + Newman for automated API regression testing
+- Architecture audit mapping production bottlenecks, service ownership boundaries and a roadmap to enterprise-grade reliability
+
+`Node.js` `Express` `MongoDB Atlas` `RabbitMQ` `Redis` `Socket.IO` `Next.js` `Docker` `OCI` `S3` `Cloudflare` `GitHub Actions`
+
+---
+
+## NPM Packages
+
+### [`vuln-scanner`](https://www.npmjs.com/package/vuln-scanner) — Node.js Vulnerability Scanner
+
+[![npm](https://img.shields.io/npm/v/vuln-scanner?style=flat-square&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/vuln-scanner)
+[![downloads](https://img.shields.io/npm/dt/vuln-scanner?style=flat-square&color=0e75b6)](https://www.npmjs.com/package/vuln-scanner)
+[![MIT](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)](https://opensource.org/licenses/MIT)
+
+Detects common web security issues — security headers validation, SSL/TLS configuration checks, vulnerable endpoint detection, parameter fuzzing for SQL Injection, XSS and Path Traversal, plus information disclosure detection. Ships as both a CLI and an SDK.
+
 ```bash
 npx vuln-scanner https://example.com
 ```
 
-**As a Package:**
-```javascript
-const VulnerabilityScanner = require('vuln-scanner');
-
-const scanner = new VulnerabilityScanner('https://example.com');
-scanner.scanAll().then(() => {
-  scanner.printSummary();
-  scanner.generateReport();
-});
-```
-
-**Features:**
-- ✅ Security Headers Validation
-- ✅ SSL/TLS Configuration Check
-- ✅ Vulnerable Endpoints Detection
-- ✅ Parameter Fuzzing (SQL Injection, XSS, Path Traversal)
-- ✅ Information Disclosure Detection
-
-🔗 [View on NPM](https://www.npmjs.com/package/vuln-scanner)
+`Node.js` `CLI` `SDK` `Security` `MIT`
 
 ---
 
-## 💼 More Projects
+## Achievements
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<h3>🎯 GPAI</h3>
-<p>Recommended features for GPAI app (Prototype)</p>
-</td>
-<td align="center" width="25%">
-<h3>👨‍👩‍👧 Care Link</h3>
-<p>Parental child control application</p>
-</td>
-<td align="center" width="25%">
-<h3>🌌 Horizon</h3>
-<p>Space-themed chat application</p>
-</td>
-<td align="center" width="25%">
-<h3>🎨 Layers AI</h3>
-<p>AI image generation web platform</p>
-</td>
-</tr>
-</table>
+| | Competition | Year |
+|:--:|---|:--:|
+| 🥇 | **Winner** — Technex, National-Level Flagship Hackathon, **IIT BHU** | 2026 |
+| 🥈 | **1st Runner-Up** — Hackatron, INFOTSAV '25, **IIITM Gwalior** | 2025 |
+| 🥉 | **2nd Runner-Up** — Hack36 9.0, Flagship Hackathon, **MNNIT Allahabad** | 2025 |
+| 🥉 | **2nd Runner-Up** — InnoDev, Avishkar, **MNNIT Allahabad** | 2025 |
+| 🥉 | **2nd Runner-Up** — Avishkar Robotics Challenge, **MNNIT Allahabad** | 2024 |
 
 ---
 
-## 📊 GitHub Analytics
+## Currently Exploring
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MNNITAK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MNNITAK&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MNNITAK&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MNNITAK&theme=tokyo-night&hide_border=true&area=true" />
-</div>
+`Kubernetes` `Service Meshes` `gRPC` `Distributed Databases` `Observability` `Multi-Agent AI Systems`
 
 ---
 
-## 🎮 Fun Zone
+#
 
-<div align="center">
-  
-### When I'm not coding... 🎯
 
-```ascii
-     ╔════════════════════════════════════════╗
-     ║  🎵 Jamming to Lo-Fi Hip Hop          ║
-     ║  🎮 Gaming (FPS & Strategy)           ║
-     ║  📚 Reading Tech Blogs & Papers       ║
-     ║  🏋️ Roaming with my loved ones       ║
-     ║  🍕 Debugging with Pizza              ║
-     ╚════════════════════════════════════════╝
-```
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ2eTE0M3FiZWh1dGlwbnQweGFrcXRocTZrMzhtODB2cnB1NGdiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif" height="300"/>
 
-### 💭 Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/MNNITAK/MNNITAK/output/github-contribution-grid-snake-dark.svg)
 
-</div>
 
----
 
-## 📫 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-b94729343/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ay9120991471@gmail.com)
+> **Great software isn't defined by how many features it has —**
+> **it's defined by how reliably it behaves under scale, failure and change.**
 
-### 💬 "Talk is cheap. Show me the code." — Linus Torvalds
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+### Let's build something ambitious.
 
-</div>
+[Portfolio](https://your-portfolio.com) · [LinkedIn](https://www.linkedin.com/in/akshay-b94729343/) · [X](https://x.com/YOUR_HANDLE) · [Email](mailto:ay9120991471@gmail.com)
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MNNITAK&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>

@@ -6,6 +6,8 @@
 
 **Building production-grade backend systems, AI-native platforms and cloud infrastructure.**
 
+**Co-Founder** @ [Aether](https://aether20.vercel.app/) &nbsp;·&nbsp; **CTO** @ [VoidCraft](https://voidcraft.work)
+
 [Portfolio](https://your-portfolio.com) · [Resume](https://drive.google.com/file/d/1rmpDxKyFksO3ZitiYAKmwxOzVAurQMBe/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/akshay-b94729343/)  · [Email](mailto:ay9120991471@gmail.com)
 
 <br/>
